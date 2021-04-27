@@ -1,7 +1,7 @@
 #### Hi there 👋 
 * 🔭 Currently working as senior software engineer in [Starship](https://starship.xyz), in the fleet team, where we optimize robot deliveries in real time. 
   * 🌱 We are hiring actively in Starship, write me an email if you are interested to join and relocate to Tallinn, Estonia.
-* 💬 I recentaly started a blog [Software Calculus](http://softwarecalculus.com/), feel free to subscribe there to receive future posts and look around.
+* 💬 I have my blog [Software Calculus](http://softwarecalculus.com/), feel free to subscribe there to receive future posts and look around.
 * :clock1: Before worked in fintech TransferWise, now called [Wise](https://wise.com). 
 * 📫 How to reach me: by email, or connect via [LinkedIn](https://www.linkedin.com/in/vitalii-lakusta-0b2094a5/).
 
