@@ -1,5 +1,5 @@
 #### Hi there 👋 
-* Currently CTO at [Better Medicine](https://bettermedicine.ai) - We help radiologists to do cancer diagnostics more accurately and faster.
+* Currently CTO at [Better Medicine](https://www.bettermedicine.ai) - We help radiologists to do cancer diagnostics more accurately and faster.
 * 🔭 Previously worked as a senior software engineer in [Starship](https://starship.xyz), in the fleet team, where we optimized robot deliveries in real time. 
 * 💬 I have my blog [Software Calculus](http://softwarecalculus.com/), feel free to subscribe there to receive future posts and look around.
 * :clock1: Before worked in fintech TransferWise, now called [Wise](https://wise.com). 
