@@ -2,7 +2,7 @@
 * Currently CTO at [Better Medicine](https://www.bettermedicine.ai) - We help radiologists to do cancer diagnostics more accurately and faster.
 * 🔭 Previously worked as a senior software engineer in [Starship](https://starship.xyz), in the fleet team, where we optimized robot deliveries in real time. 
 * 💬 Blogging a bit [here](https://vlakusta.com/).
-* :clock1: Before worked in fintech TransferWise, now called [Wise](https://wise.com). 
+* :clock1: Before worked as a software engineer in fintech TransferWise, now called [Wise](https://wise.com). 
 * 📫 How to reach me: by email, or connect via [LinkedIn](https://www.linkedin.com/in/vitalii-lakusta-0b2094a5/).
 
 <!--
