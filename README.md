@@ -1,5 +1,6 @@
 #### Hi there 👋 
-* Currently CTO at [Better Medicine](https://www.bettermedicine.ai) - We help radiologists to do cancer diagnostics more accurately and faster.
+* Currently scaling autonomous negotiations product at [Pactum AI](pactum.com)
+* ex-CTO, technical advisor & co-founder at [Better Medicine](https://www.bettermedicine.ai) - We help radiologists to do cancer diagnostics more accurately and faster.
 * 🔭 Previously worked as a senior software engineer in [Starship](https://starship.xyz), in the fleet team, where we optimized robot deliveries in real time. 
 * 💬 Blogging a bit [here](https://vlakusta.com/).
 * :clock1: Before worked as a software engineer in fintech TransferWise, now called [Wise](https://wise.com). 
